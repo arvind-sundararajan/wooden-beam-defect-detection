@@ -1,0 +1,6 @@
+beam_id,defect_type,defect_size,beam_length,beam_diameter
+1,crack,0.5,10,0.8
+2,knot,1.2,12,1.0
+3,crack,0.8,11,0.9
+4,warp,1.5,10,0.7
+5,crack,1.0,13,1.1
