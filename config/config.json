@@ -1,0 +1,1 @@
+{"beam_defect_detection_model":"random_forest","optimization_algorithm":"genetic","beam_defect_data_path":"data/beam_defect_data.csv","optimization_data_path":"data/optimization_data.csv"}
